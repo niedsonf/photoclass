@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842364766534",
+    "project_id": "photoclass-462a2",
+    "storage_bucket": "photoclass-462a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842364766534:android:c87a4f67cc6a34801dbd47",
+        "android_client_info": {
+          "package_name": "com.example.photoclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842364766534-arf6jr2oct7isnpkqh4072lcuktp87ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClcRqZpa0t6F2OsEulgar4Vbd2U8N9C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842364766534-arf6jr2oct7isnpkqh4072lcuktp87ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
